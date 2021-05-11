@@ -37,7 +37,7 @@ public class StudentController{
 			int c=Integer.parseInt(br.readLine());
 			if(c==1)
 			{
-				System.out.println("enter the usn:");
+				System.out.println("enter the Id:");
 			      String usn=consoleReader.readString();
 			      System.out.println("entet the firstname");
 			      String fname=consoleReader.readString();
